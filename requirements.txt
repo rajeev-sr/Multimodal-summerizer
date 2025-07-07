@@ -1,1 +1,15 @@
-langchain
+unstructured[all-docs]
+pillow
+pydantic
+lxml
+pillow
+matplotlib
+unstructured-pytesseract
+tesseract-ocr
+# sudo apt-get install poppler-utils
+# sudo apt-get install libleptonica-dev
+# sudo apt-get install tesseract-ocr
+# sudo apt-get install libtesseract-dev
+# sudo apt-get install python3-pil
+# sudo apt-get install tesseract-ocr-eng
+# sudo apt-get install tesseract-ocr-script-latn
