@@ -10,7 +10,7 @@ tesseract-ocr
 langchain_core
 langchain-google-genai
 langchain
-chromadb
+langchain-chroma>=0.1.2
 
 # sudo apt-get install poppler-utils
 # sudo apt-get install libleptonica-dev
